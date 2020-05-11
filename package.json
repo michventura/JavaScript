@@ -1,7 +1,7 @@
 {
   "name": "javascript",
   "version": "1.0.0",
-  "description": "Ejemplos básicos de javaScript",
+  "description": "Ejemplos básicos de manipulación del DOM con JavaScript",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
@@ -9,8 +9,7 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "@babel/core": "7.2.0",
-    "parcel-bundler": "^1.6.1"
-  },
-  "keywords": []
+    "@babel/core": "7.9.6",
+    "parcel-bundler": "^1.12.4"
+  }
 }
